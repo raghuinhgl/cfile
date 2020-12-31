@@ -10,3 +10,5 @@ reverse.o:reverse.c
 	gcc -c reverse.c
 prime.o:prime.c
 	gcc -c prime.c
+	
+	rm -rf *.o RAGHU.exe
